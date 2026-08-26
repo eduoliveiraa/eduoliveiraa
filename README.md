@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1A7DD7&width=435&lines=Ol%C3%A1%2C+Me+chamo+Eduardo+Oliveira!;Seja+Bem+Vindo+ao+meu+Perfil!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=1A7DD7&width=435&lines=Ol%C3%A1%2C+Me+chamo+Eduardo+Oliveira!;Seja+Bem+Vindo+ao+meu+Perfil!%F0%9F%91%8B)](https://git.io/typing-svg)
