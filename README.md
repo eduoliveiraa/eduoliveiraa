@@ -17,6 +17,7 @@
 Sou estudante de Desenvolvimento de Software, com interesse em tecnologia e programação. Busco desenvolver aplicações escaláveis, seguras e de fácil manutenção, aprimorando constantemente meus conhecimentos e transformando ideias em soluções eficientes e funcionais.
 
 - 🎓 Estudante em Técnico de Desenvolvimento de Sistemas
+- ⚡ Eletricista de Manutenção Eletroeletrônica
 - 📚 Construindo projetos e compartilhando conhecimentos
 - 🚀 Em busca de uma oportunidade de estágio em Back-end ou Desenvolvimento de Software
 
