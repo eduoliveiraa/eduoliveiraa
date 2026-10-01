@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá, eu sou Eduardo Oliveira
+# Olá, meu nome é Eduardo Oliveira
 
 
 <div align="center">
