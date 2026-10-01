@@ -56,3 +56,11 @@ Sou estudante de Desenvolvimento de Software, com interesse em tecnologia e prog
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hjspavan/hjspavan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hjspavan/hjspavan/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=eduoliveiraa&style=for-the-badge&color=F7A800&label=Visitas+ao+Perfil" />
+
+
